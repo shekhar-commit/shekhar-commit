@@ -3,169 +3,275 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/shekhar-commit/shekhar-commit/main/assets/banner.png"/>
 
-# 👋 Hi, I'm Shekhar Arya
+<br>
 
-### 🚀 AI/ML Engineer | Full Stack Developer | BTech AIML Student
+# 👋 Hey, I'm Shekhar Arya
+
+### 🚀 AI/ML Engineer • Full Stack Developer • BTech AIML Student
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shekhar-arya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/shekhar-commit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+Building Intelligent Applications with AI, LLMs & Modern Web Technologies
 </p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=shekhar-commit&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/shekhar-commit?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/shekhar-commit?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```yaml
 Name: Shekhar Arya
+
 Role: AI/ML Engineer
-Education: BTech AIML
-Location: Uttar Pradesh, India
+
+Education:
+  B.Tech Computer Science (AI & ML)
 
 Focus:
-  - Generative AI
+  - Artificial Intelligence
   - Agentic AI
-  - LLM Applications
-  - RAG Systems
+  - Large Language Models
+  - Retrieval Augmented Generation
   - Full Stack Development
 
-Goal:
-  - Build impactful AI products
+Current Mission:
+  Build Real World AI Products
+
+Dream:
+  Become a Top AI Engineer
 ````
 
 ---
 
-## 🚀 Current Focus
+# 🚀 What I'm Building
 
-* 🤖 Building AI-powered applications
-* 🧠 Learning Agentic AI & LangGraph
-* 📚 Advanced RAG Systems
-* ⚡ FastAPI + React Development
-* 🌱 Open Source Contributions
+<table>
+<tr>
+<td width="33%">
+
+### 🤖 AI Systems
+
+* AI Agents
+* LLM Applications
+* RAG Pipelines
+* Automation Systems
+
+</td>
+
+<td width="33%">
+
+### 🌐 Full Stack
+
+* React
+* Next.js
+* FastAPI
+* Node.js
+
+</td>
+
+<td width="33%">
+
+### 📊 Data & ML
+
+* TensorFlow
+* PyTorch
+* Scikit Learn
+* Deep Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+### Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+### Tools
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shekhar-commit&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-commit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shekhar-commit&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements
+# 📊 GitHub Analytics
 
-| Achievement      | Count         |
-| ---------------- | ------------- |
-| 🚀 Repositories  | 30+           |
-| 💻 Projects      | 10+           |
-| 🌱 Contributions | Growing Daily |
-| 🧠 AI Projects   | Multiple      |
-| 🌍 Open Source   | Active        |
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shekhar-commit&show_icons=true&theme=transparent"/>
 
-## 🌟 Featured Projects
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-commit&layout=compact&theme=transparent"/>
 
-### 🤖 AI Document Intelligence Platform
+</div>
 
-Enterprise-grade AI document understanding system.
+<br>
 
-### 🌱 Crop Recommendation System
+<div align="center">
 
-ML-powered crop prediction platform.
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=shekhar-commit&theme=transparent"/>
 
-### 🍃 Plant Disease Detection
-
-Deep Learning based plant disease classifier.
-
-### 📄 PDF To Audio Converter
-
-Convert PDFs into natural speech.
-
-### 🖼 OCR Text Extraction
-
-Extract text from images and scanned documents.
-
-### 🧠 Multi-Source RAG Chatbot
-
-Chat with PDFs, websites and documents.
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 Featured Projects
 
-* [ ] Build production-ready AI SaaS
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Document Intelligence
+
+Enterprise-grade document analysis platform powered by AI.
+
+**Tech Stack**
+
+* Python
+* FastAPI
+* LangChain
+* LLMs
+
+</td>
+
+<td width="50%">
+
+## 🧠 Multi Source RAG
+
+Chat with PDFs, Websites and Knowledge Bases.
+
+**Tech Stack**
+
+* LangChain
+* FAISS
+* OpenAI
+* FastAPI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌱 Crop Recommendation System
+
+Machine Learning based intelligent crop prediction.
+
+**Tech Stack**
+
+* Python
+* Scikit Learn
+* Flask
+* ML Models
+
+</td>
+
+<td width="50%">
+
+## 🍃 Plant Disease Detection
+
+Deep Learning based crop disease classifier.
+
+**Tech Stack**
+
+* TensorFlow
+* CNN
+* Flask
+* Computer Vision
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Learn Python
+* [x] Learn Machine Learning
+* [x] Build AI Projects
+* [x] Learn Full Stack Development
 * [ ] Master Agentic AI
+* [ ] Build AI SaaS Product
 * [ ] Contribute to Open Source
-* [ ] 50+ GitHub Contributions
-* [ ] Crack Top Tech Placement
+* [ ] 1000+ Contributions
+* [ ] Top Tech Placement
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhar-commit&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/shekhar-arya">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:[your-email@gmail.com](mailto:your-email@gmail.com)">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
 </a>
 
 <a href="https://github.com/shekhar-commit">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 💭 Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+    repeat()
+```
 
 ---
 
 <div align="center">
 
-### 💭 Quote
+## 🚀 Thanks for Visiting My Profile
 
-> "Believe In Yourself 💯"
-
-### 🚀 Thanks for visiting my profile!
+### "Believe In Yourself 💯"
 
 </div>
