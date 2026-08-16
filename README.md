@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/shekhar-commit/shekhar-commit/main/assets/banner.png"/>
@@ -169,4 +169,3 @@ Chat with PDFs, websites and documents.
 ### 🚀 Thanks for visiting my profile!
 
 </div>
-```
